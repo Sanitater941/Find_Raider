@@ -50,7 +50,7 @@ def process_video():
             cv2.imshow('Object detection', img)
 
             if 0 in class_ids:
-                print('사람이 나타났다!!!_2170018_김민수')
+                print('There is Raider!!!!!!')
                 winsound.Beep(frequency=2000, duration=500)
 
         key = cv2.waitKey(1) & 0xFF
