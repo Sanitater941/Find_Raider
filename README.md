@@ -10,3 +10,6 @@ https://pjreddie.com/media/files/yolov3.weights
 
 There is yolov3.cfg file:
 https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg
+
+There is coco.names.txt file:
+https://github.com/pjreddie/darknet/blob/master/data/coco.names
